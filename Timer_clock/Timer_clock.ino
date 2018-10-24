@@ -111,6 +111,7 @@ void updateTime() {
     if (line.startsWith("DATE: ")) {
       hour = line.substring(23, 25).toInt();
       hour = hour + (timeZone + (1 * sommerZeit));
+      if(hour>23) hour = hour-24;
       minute = line.substring(26, 28).toInt();
       second = line.substring(29, 31).toInt();
       year = line.substring(18, 22).toInt();
