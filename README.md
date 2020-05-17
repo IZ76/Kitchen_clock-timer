@@ -20,6 +20,5 @@
 Скрин приложения:<br>
 <a href="http://piccy.info/view3/13809082/bcae754894cdafe3cd98aa3b0cbfadd7/" target="_blank"><img src="http://i.piccy.info/i9/250ed0086c91b026ebc55add768280ed/1589703049/17676/1367845/screen_500.jpg" alt="Piccy.info - Free Image Hosting" border="0" /></a><a href="http://i.piccy.info/a3c/2020-05-17-08-10/i9-13809082/500x199-r" target="_blank"><img src="http://i.piccy.info/a3/2020-05-17-08-10/i9-13809082/500x199-r/i.gif" alt="" border="0" /></a>
 
-Короткое видео https://youtu.be/mzgj0eMkJf0
+Короткое видео https://youtu.be/mzgj0eMkJf0 <br>
 Тема для обсуждения на форуме Амперки http://forum.amperka.ru/threads/Таймер-часы-на-кухню.16246/
-
